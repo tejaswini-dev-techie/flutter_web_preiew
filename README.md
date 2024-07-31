@@ -5,12 +5,15 @@ Welcome to the web app project! This project is a Flutter web application design
 ## Project Overview
 Flutter Web App is built using Flutter, providing a robust framework for building beautiful, natively compiled applications for mobile, web, and desktop from a single codebase. This project leverages Firebase for backend services, including authentication, database, and hosting.
 
-Supported Platforms
+## Supported Platforms
+
 This project supports the following platforms:
 
-Web: Run the application in any modern web browser.
-Mobile: Build for both Android and iOS devices.
-Desktop: Target Windows, macOS, and Linux.
+**Web**: Run the application in any modern web browser.
+
+**Mobile**: Build for both Android and iOS devices.
+
+**Desktop**: Target Windows, macOS, and Linux.
 
 Flutter's flexibility allows you to create responsive designs that work seamlessly across these platforms, providing a consistent user experience.
 
